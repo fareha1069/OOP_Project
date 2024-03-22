@@ -1,0 +1,9 @@
+post1	u1	Amna Akram	hello
+post1	u1	Amna Akram	yess
+post3	u7	Abdullah Nadeem	yes
+post4	u7	Abdullah Nadeem	how are you?
+post3	u7	Abdullah Nadeem	Same here!
+post12	u7	Abdullah Nadeem	helllooo
+post7	u7	Abdullah Nadeem	Happy Birthday
+post10	u2	Muhammad Ali	Congratulations!
+post3	u20	Haris Muneer	Alu lelo teendy lelo
