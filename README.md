@@ -122,6 +122,7 @@ To use this social media platform, include the necessary classes in your project
 ## Contributors
 
 - [Fareha](https://github.com/fareha1069/)
+- [Aneeba Waseem](https://github.com/AneebaWaseem)
 
 ## License
 
